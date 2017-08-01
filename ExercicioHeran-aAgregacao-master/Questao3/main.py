@@ -1,6 +1,6 @@
-from Pessoa import Pessoa
-from Fornecedor import Fornecedor
-from Funcionario import Funcionario
+from Questao3.Pessoa import Pessoa
+from Questao3.Fornecedor import Fornecedor
+from Questao3.Funcionario import Funcionario
 
 def main():
   joaop = Pessoa("joao","rua:221","98679")
